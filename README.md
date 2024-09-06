@@ -82,6 +82,11 @@ Saída selecionada: 0
 Aqui estão algumas capturas de tela mostrando o programa em ação:
 
 # Decodificadores
+- **Decodificador 2x4**:
+  ![Decodificador 2x4](screenshots/exemploD2x4.png)
+
+- **Decodificador 3x8**:
+  ![Decodificador 3x8](screenshots/exemploD3x8.png)
 
 # Multiplexadores
 
