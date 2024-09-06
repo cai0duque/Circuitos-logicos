@@ -27,7 +27,9 @@ O multiplexador seleciona uma de várias entradas com base em um conjunto de bit
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Instalação passo-a-passo (RECOMENDO USAR O <img src="screenshots/intelliJ.png" alt="intelliJ" width="5%">)
+# Instalação passo-a-passo (RECOMENDO USAR O <a href="https://www.jetbrains.com/idea/">
+  <img src="screenshots/intelliJ.png" alt="IntelliJ IDEA" width="5%">
+</a>)
 
 - 1> Clone a pasta do código este repositório:
    ```bash
