@@ -13,7 +13,9 @@ public class Main {
                 System.out.println("1- Decodificador 2x4");
                 System.out.println("2- Decodificador 3x8");
                 System.out.println("3- Decodificador 4x16");
-                System.out.println("4- Sair");
+                System.out.println("4- Decodificador 5x32");
+                System.out.println("5- Decodificador 6x64");
+                System.out.println("6- Sair");
                 System.out.println("----------------------------");
 
                 int opcao = Integer.parseInt(scanner.nextLine());
@@ -34,6 +36,14 @@ public class Main {
                         decodificador.realizarOperacao();
                         break;
                     case 4:
+                        decodificador = new Decodificador5x32();
+                        decodificador.realizarOperacao();
+                        break;
+                    case 5:
+                        decodificador = new Decodificador6x64();
+                        decodificador.realizarOperacao();
+                        break;
+                    case 6:
                         System.out.println("Saindo...");
                         return;
                     default:
