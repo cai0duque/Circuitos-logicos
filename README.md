@@ -90,5 +90,5 @@ Sinta-se à vontade para fazer um fork deste projeto e contribuir com novas func
 
 # Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](License) para mais detalhes.
 
