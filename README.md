@@ -37,8 +37,9 @@ O multiplexador seleciona uma de várias entradas com base em um conjunto de bit
    git pull origin main
 
 - 2> Compile os arquivos java (caso queira rodar fora do intelliJ)
+```bash
 javac -d bin src/decodificador/*.java
-
+```
 - 3> Executar o programa:
 ```bash
 java -cp bin decodificador.Main
