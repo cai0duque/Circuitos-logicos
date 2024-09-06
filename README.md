@@ -35,12 +35,12 @@ Clique no ícone abaixo para baixar o IntelliJ IDEA caso queira:
 </a>
 
 - 1> Clone a pasta do código este repositório:
-   ```bash
+```bash
    git config core.sparseCheckout true
    echo "circuitos/" >> .git/info/sparse-checkout
    git clone https://github.com/cai0duque/Circuitos-logicos.git
    git pull origin main
-
+```
 - 2> Compile os arquivos java (caso queira rodar fora do intelliJ)
 ```bash
 javac -d bin src/decodificador/*.java
