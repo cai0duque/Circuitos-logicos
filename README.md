@@ -27,7 +27,7 @@ O multiplexador seleciona uma de várias entradas com base em um conjunto de bit
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Instalação passo-a-passo (RECOMENDO USAR O <img src="screenshots/intelliJ.png" alt="Decodificador 2x4" width="100%">)
+# Instalação passo-a-passo (RECOMENDO USAR O <img src="screenshots/intelliJ.png" alt="intelliJ" width="15%">)
 
 - 1> Clone a pasta do código este repositório:
    ```bash
