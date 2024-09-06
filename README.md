@@ -28,7 +28,7 @@ O multiplexador seleciona uma de várias entradas com base em um conjunto de bit
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Instalação passo-a-passo
-Clique para baixar o IntelliJ IDEA caso queira:
+Clique no ícone abaixo para baixar o IntelliJ IDEA caso queira:
 
 <a href="https://www.jetbrains.com/idea/">
   <img src="screenshots/intelliJ.png" alt="IntelliJ IDEA" width="5%">
