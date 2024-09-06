@@ -83,9 +83,11 @@ Aqui estão algumas capturas de tela mostrando o programa em ação:
 
 # Decodificadores
 - **Decodificador 2x4**:
+
   <img src="screenshots/exemploD2x4.png" alt="Decodificador 2x4" width="60%">
 
 - **Decodificador 3x8**:
+
   <img src="screenshots/exemploD3x8.png" alt="Decodificador 3x8" width="60%">
 
 # Multiplexadores
